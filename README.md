@@ -1,2 +1,17 @@
-# Simple Demo GPT
-GPT-2 Text Generation Demo  This is a small demo project showcasing how to use GPT-2 for text generation and token analysis using the Hugging Face Transformers library in Python.  Features  Load and use the pre-trained GPT-2 model and tokenizer  Generate text from a given prompt  Encode sentences into token IDs and convert them back to tokens  Explore token embeddings and model parameters  Installation  Install the required libraries using pip:  transformers  torch  Usage  Import libraries and set a fixed random seed for reproducibility  Initialize the GPT-2 model and tokenizer  Generate text from a prompt  Explore tokenization, embeddings, and model parameters  License  This project is for learning and demonstration purposes only.
+# GPT-2 Text Generation Demo
+
+This is a small demo project showcasing how to use **GPT-2** for text generation and token analysis using the **Hugging Face Transformers** library in Python.
+
+## Features
+
+- Load and use the pre-trained GPT-2 model and tokenizer  
+- Generate text from a given prompt  
+- Encode sentences into token IDs and convert them back to tokens  
+- Explore token embeddings and model parameters  
+
+## Installation
+
+Install the required libraries using pip:  
+
+```bash
+pip install transformers torch
